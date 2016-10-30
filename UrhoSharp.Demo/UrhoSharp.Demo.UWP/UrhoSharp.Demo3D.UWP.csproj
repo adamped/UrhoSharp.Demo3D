@@ -129,9 +129,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UrhoSharp.Demo\UrhoSharp.Demo.csproj">
-      <Project>{a047f842-e335-4163-8ecd-4e79ff515286}</Project>
-      <Name>UrhoSharp.Demo</Name>
+    <ProjectReference Include="..\UrhoSharp.Demo\UrhoSharp.Demo3D.csproj">
+      <Project>{CFA2EE8A-4521-4DE2-990C-169E15827882}</Project>
+      <Name>UrhoSharp.Demo3D</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

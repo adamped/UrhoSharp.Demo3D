@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrhoSharp.Demo", "UrhoSharp.Demo\UrhoSharp.Demo\UrhoSharp.Demo.csproj", "{CFA2EE8A-4521-4DE2-990C-169E15827882}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrhoSharp.Demo3D", "UrhoSharp.Demo\UrhoSharp.Demo\UrhoSharp.Demo3D.csproj", "{CFA2EE8A-4521-4DE2-990C-169E15827882}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrhoSharp.Demo.Droid", "UrhoSharp.Demo\UrhoSharp.Demo.Droid\UrhoSharp.Demo.Droid.csproj", "{E7A6CAA1-AD97-4000-B262-2704186A3E40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrhoSharp.Demo3D.Droid", "UrhoSharp.Demo\UrhoSharp.Demo.Droid\UrhoSharp.Demo3D.Droid.csproj", "{E7A6CAA1-AD97-4000-B262-2704186A3E40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrhoSharp.Demo.iOS", "UrhoSharp.Demo\UrhoSharp.Demo.iOS\UrhoSharp.Demo.iOS.csproj", "{516E29DD-35ED-40A1-B3E0-1D5CE830CE37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrhoSharp.Demo3D.iOS", "UrhoSharp.Demo\UrhoSharp.Demo.iOS\UrhoSharp.Demo3D.iOS.csproj", "{516E29DD-35ED-40A1-B3E0-1D5CE830CE37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrhoSharp.Demo.UWP", "UrhoSharp.Demo\UrhoSharp.Demo.UWP\UrhoSharp.Demo.UWP.csproj", "{3A4828E6-6DC3-4B9A-9180-E687A9250889}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrhoSharp.Demo3D.UWP", "UrhoSharp.Demo\UrhoSharp.Demo.UWP\UrhoSharp.Demo3D.UWP.csproj", "{3A4828E6-6DC3-4B9A-9180-E687A9250889}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
